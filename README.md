@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+For educational purposes only
+
 <!--
 **jmm5781/jmm5781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
