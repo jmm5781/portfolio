@@ -1,0 +1,27 @@
+#main-header {
+    color: darkgoldenrod;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+.blue {
+    color: blue;
+}
+
+
+
+body {
+    color: brown;
+    background-color: black;
+}
+
+.box {
+    height: 100px;
+    width: 20%;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background: darkgreen;
+}
