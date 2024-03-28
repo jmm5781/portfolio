@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on prework for the Tech Elevator coding bootcamp
-- 🌱 I’m currently learning all about JavaScript, HTML, CSS and Git
+- 🔭 I’m currently a student in Tech Elevator coding bootcamp
+- 🌱 I’m currently learning all about Java and Git
 - 👯 I’m looking to collaborate on anything at all
 
 
