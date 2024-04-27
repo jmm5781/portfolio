@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently a student at the Tech Elevator coding bootcamp
-- 🌱 I’m currently learning all about Java and SQL
+- 🌱 I’m currently learning all about Java, SQL, JDBC and REST APIs using Spring Boot
 - 👯 I’m looking to collaborate on anything at all
 
 
