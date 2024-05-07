@@ -1,0 +1,30 @@
+/* html {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16pt;
+    font-weight:300;
+} */
+
+#one {
+    color: red;
+}
+
+.main-header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15pt;
+    font-weight:600; 
+    color: black;
+}
+/* 
+.default {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15pt;
+    font-weight:300;
+
+} */
+
+.menu {
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type: none;
+    font-size: 15pt;
+    font-weight:300;
+}
