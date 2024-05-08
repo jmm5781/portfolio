@@ -28,3 +28,11 @@
     font-size: 15pt;
     font-weight:300;
 }
+
+.dev-note {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    font-size: 12pt;
+    font-weight: 200;
+    color:darkmagenta
+}
