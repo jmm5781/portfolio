@@ -13,8 +13,8 @@ h1 {
 
 
 body {
-    color: white;
-    background-color: #32373c;
+    color: rgba(255, 255, 255, 0.743);
+    background-color: #0c2237;
 }
 
 .box {
@@ -25,3 +25,12 @@ body {
     border: 10px solid black;
     background: darkgreen;
 }
+
+.fa-icons {
+    color: rgba(255, 68, 0, 0.522);
+}
+
+.fa-icons::before, .fa-icons::after {
+    content: none;
+}
+
