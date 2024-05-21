@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Login to TEnmo</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -16,17 +16,25 @@
     </div>
     <div>
         <h2 class="menu"> Please enter your login details:</h2>
-        <ul class="menu">
-            <li>Username: <!-- form field --> </li>
-            <li>Password: <!-- form field --></li>
+        <form id="login-form" class="menu">
+            
+            <label for="username" id="username-label">Username:</label>
+            <input type="text" id="username-field" name="username" required>
+            <label for="password" id="password-label">Password:</label>
+            <input type="password" id="password-field" name="password" required>
+            <button type="submit" id="login-button">Login</button>
             <!-- >> Registration successful. You can now login. -->
+            
+            
+        </form>
+        <ul class="menu">
             <li><a href="welcome.html">Cancel</a></li>
-            <!-- Go to main menu -->
             <li>&nbsp;</li>
             <li>&nbsp;</li>
-            <li class="dev-note"><a href="main-menu.html">Jump to Main Menu (bypass authentication)</a></li>
-        </ul>       
+            <li class="dev-note"><a href="main-menu.html">Jump to Main Menu (bypass authentication)</a></li>           
+        </ul>
     </div>
 
+    <script src="script/script.js"></script>
 </body>
 </html>
