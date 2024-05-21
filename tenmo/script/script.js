@@ -1,6 +1,6 @@
 const API_BASE_URL = "http://localhost:8080/";
 
-// function login() {
+function login() {
     const loginForm = document.getElementById('login-form');
     loginForm.addEventListener('submit', function (evt) {
         evt.preventDefault();
@@ -9,7 +9,6 @@ const API_BASE_URL = "http://localhost:8080/";
 
         fetch(API_BASE_URL + 'login', {
             method: 'POST',
-            mode: 'no-cors',
             headers: { 'Content-Type': 'application/json'},
             body: JSON.stringify({ username: username, password: password })
         })
@@ -25,9 +24,9 @@ const API_BASE_URL = "http://localhost:8080/";
         .catch(error => console.error('Error in fetch operation: ', error));
 
     }); 
-// }
+}
 
-// login();
+login();
 
 
 
