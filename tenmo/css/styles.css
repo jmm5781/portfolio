@@ -22,7 +22,7 @@
 
 } */
 
-#login-form {
+/* #login-form {
     display: grid;
     grid-template-columns: 200px 200px;
     grid-template-areas: 
@@ -31,11 +31,17 @@
         "LoginButton ." 
 }
 
+#login-form>p>label {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+} */
+
 #username-label {
     grid-area: UsernameLabel;
     display: flex;
     flex-grow: 1;
-    justify-items: right;/**** fix ****/
+    justify-items: center ;
 }
 
 #username-field {
