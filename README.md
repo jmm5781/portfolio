@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently a student at the Tech Elevator coding bootcamp
-- 🌱 I’m currently learning all about Java, SQL, JDBC and REST APIs using Spring Boot
+- 🌱 I’m currently learning all about HTML, CSS, JavaScript, Vue.js, Java, SQL, JDBC, Spring Boot, Model-View-Controller, and REST APIs 
 - 👯 I’m looking to collaborate on anything at all
 
 
