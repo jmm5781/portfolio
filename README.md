@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I just graduated from the Tech Elevator coding bootcamp!
-- 🌱 I’m currently starting my job search, and continuing to learn all about HTML, CSS, JavaScript, Vue.js, Java, SQL, JDBC, Spring Boot, Model-View-Controller, and REST APIs 
+- 🔭 I recently graduated from the Tech Elevator coding bootcamp!
+- 🌱 I’m currently looking for work as a junior software developer, and continuing to learn all about HTML, CSS, JavaScript, Vue.js, Java, Python, SQL, JDBC, Spring Boot, Model-View-Controller, and REST APIs.
 - 👯 I’m looking to collaborate on anything at all
 
 
